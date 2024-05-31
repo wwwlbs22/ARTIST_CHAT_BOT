@@ -1,5 +1,5 @@
 {
-    "name":" 𝐒𝐓𝐑𝐀𝐍𝐆𝐄𝐑 𝐂𝐇𝐀𝐓𝐁𝐎𝐓",    
+    "name":" ARTIST CHATBOT",    
     "env": {
         "BOT_TOKEN": {
             "description": "telegram bot token here",
